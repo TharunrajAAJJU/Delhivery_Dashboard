@@ -35,9 +35,13 @@ Across India’s vast and varied terrain, every minute saved and rupee optimized
 
 ## 📂 Repository Contents
 
-- `data/` – Sample CSV exports and data schema  
-- `reports/` – Power BI `.pbix` files and template  
-- `images/` – Screenshots and design assets  
+- `Delhivery Dashboad Screenshots/` – Sample screenshots of the interactive dashboard  
+- `Delhivery Icons/` – Design assets
+- `Canva Designed Dashboard Background/` – Background of the dashboard
+- `Delhivery Dashboard.pbix/` – Power BI `.pbix` file  
+- `Delhivery_logo.png/` – Screenshots and design assets  
 - `README.md` – Project overview and usage instructions  
 
 ---
+## 📂 Link for Dataset
+- `[data/](https://www.kaggle.com/datasets/devarajv88/delhivery-logistics-dataset)` – Raw Dataset which is used in the project
